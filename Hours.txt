@@ -1,3 +1,4 @@
 Date, Start Time - End Time, Work Description
 May 6, 1:30 - 2:30 pm, Onboarding Meeting with Professor, Filling out Forms
-May 6, 5:00 - 6:00 pm, Linkedin Linux Course - Environment Setup 
+May 6, 5:00 - 6:00 pm, Linkedin Linux Course - Environment Setup
+May 9, 12:30 - 1:30, Linkedin Linux Course - Worked on the course
