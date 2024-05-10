@@ -1,6 +1,6 @@
 Date, Start Time - End Time, Work Description
 May 6, 1:30 - 2:30 pm, Onboarding Meeting with Professor, Filling out Forms
-May 6, 5:00 - 6:00 pm, Linkedin Linux Course - Environment Setup
+May 6, 5:00 - 6:00 pm, Linkedin Linux Course - Environment Setup, Installed Putty and Cygwin
 May 9, 12:30 - 2:30 pm, Linkedin Linux Course - Worked on the course
 May 10, 6:30 - 8:30 am, Read Fortran Book
 May 10, 10:00 - 11:00 am, Group Meeting
