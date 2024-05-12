@@ -4,5 +4,5 @@ May 6, 5:00 - 6:00 pm, Linkedin Linux Course - Environment Setup, Installed Putt
 May 9, 12:30 - 2:30 pm, Linkedin Linux Course - Worked on the course
 May 10, 6:30 - 8:30 am, Read Fortran Book
 May 10, 10:00 - 1:00 pm, Group Meeting
-Week 1 Total: 8 hours
+Week 1 Total: 9 hours
 
