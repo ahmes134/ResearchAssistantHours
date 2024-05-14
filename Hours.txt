@@ -1,12 +1,14 @@
 Date, Start Time - End Time, Work Description
 May 6, 1:30 - 2:30 pm, Onboarding Meeting with Professor, Filling out Forms
 May 6, 5:00 - 6:00 pm, Linkedin Linux Course - Environment Setup, Installed Putty and Cygwin
-May 9, 12:30 - 2:30 pm, Linkedin Linux Course - Worked on the course
+May 9, 12:30 - 2:30 pm, Linkedin Linux Course - Worked on the course (Section 1 and 2)
 May 10, 6:30 - 8:30 am, Read Fortran Book
 May 10, 10:00 - 1:00 pm, Group Meeting
 Week 1 Total: 9 hours
 
 May 12, 2:30 - 3:30 pm, SAFE Training
-May 13, 10:30 - 1:30 pm, Health and Safety Orientation, Violence and Harassment Prevention & WHMIS Training
-Week 2 Total: 4 hours
+May 13, 10:30 - 1:30 pm, Health and Safety Orientation, Violence and Harassment Prevention & WHMIS 2015 Training
+May 14, 11:30 - 12:30 pm, Linkedin Linux Course (Section 3)
+May 14, 12:30 - 1:30 pm, Work on coding task
+Week 2 Total: 6 hours
 
