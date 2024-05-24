@@ -18,7 +18,8 @@ May 17, 10:00 - 12:00 pm, Group Meeting
 Week 2 Total: 13 hours
 
 May 22, 10:00 - 11:00 am, Finish Linux Course
-May 23, 10:00 - 11:00 pm, Implement variable name getter function + test
+May 23, 10:00 - 11:00 pm, Implement variable name setter function + test
+May 24, 6:30 - 7:30 am, Implement variable name getter function + test
 May 24, 10:30 - 11:30 am, Meeting online with professor
 Week 3 Total: 3 hours
 
