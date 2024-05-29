@@ -30,7 +30,8 @@ May 26, 12:00 - 2:00 pm, Fixed Warning & Started VariableNames Function (2hrs)
 May 27, 11:30 - 12:30, Worked on fixing errors from plexcreatef.c (1hr)
 May 27, 3:30 - 6:30pm, Created Test Case for the getter, Implemented setter & getter for Nodal (2hr)
 May 29, 9:30 - 10:30am, Fixed the Zonal and Nodal Variable count when assigning multiple variable names (1hr)
-May 29, 10:30 - 11:30am, Meeting with professor (1hr)
+May 29, 10:30 - 11:30am, Meeting with professor + Make Alliance Account (1hr)
+May 29, 3:00 - 4:00pm, Worked on making corrections to code (1hr)
 
-Week 4 Total: 10 hours
+Week 4 Total: 11 hours
 
