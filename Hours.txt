@@ -27,13 +27,13 @@ May 24, 11:30 - 1:30pm, Made Ontario Training account and registered for the cou
 May 24, 12:30 - 1:30 pm, Watched Compute Ontario Summer School 2024 Video (1hr)
 May 25, 2:00 - 3:00 pm, Watched videos on Fortran (1 hr)
 May 26, 12:00 - 2:00 pm, Fixed Warning & Started VariableNames Function (2hrs)
-May 27, 11:30 - 12:30, Worked on fixing errors from plexcreatef.c (1hr)
+May 27, 11:30 - 1:30pm, Worked on fixing errors from plexcreatef.c (2hr)
 May 27, 3:30 - 6:30pm, Created Test Case for the getter, Implemented setter & getter for Nodal (2hr)
 May 29, 9:30 - 11:30am, Fixed the Zonal and Nodal Variable count when assigning multiple variable names (2hr)
 May 29, 10:30 - 11:30am, Meeting with professor + Make Alliance Account (1hr)
 May 29, 3:00 - 6:00pm, Worked on making corrections to code (3hrs)
 May 29, 7:00 - 10:00PM, Fixed test cases and formatted code (3hrs)
-May 30, 10:00 - 1:00 pm, Group Meeting - Download FreeFem (3hr) + Meeting with prof + Notes
+May 30, 10:00 - 1:00 pm, Group Meeting - Download FreeFem, Meeting with Supervisor, Notes (3hr)
 
 Week 4 Total: 22 hours
 
