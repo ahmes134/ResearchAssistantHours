@@ -32,7 +32,8 @@ May 27, 3:30 - 6:30pm, Created Test Case for the getter, Implemented setter & ge
 May 29, 9:30 - 10:30am, Fixed the Zonal and Nodal Variable count when assigning multiple variable names (1hr)
 May 29, 10:30 - 11:30am, Meeting with professor + Make Alliance Account (1hr)
 May 29, 3:00 - 5:00pm, Worked on making corrections to code (2hrs)
-MAY 29, 7:00 - 10:00PM, Fixed test cases and formatted code (3hrs)
+May 29, 7:00 - 10:00PM, Fixed test cases and formatted code (3hrs)
+May 30, 10:00 - 11:00 am, Group Meeting - Download FreeFem (1hr)
 
-Week 4 Total: 16 hours
+Week 4 Total: 17 hours
 
