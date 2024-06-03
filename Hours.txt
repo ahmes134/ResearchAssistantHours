@@ -36,5 +36,6 @@ May 29, 7:00 - 10:00PM, Fixed test cases and formatted code (3hrs)
 May 30, 10:00 - 1:00 pm, Group Meeting - Download FreeFem, Meeting with Supervisor, Notes (3hrs)
 Week 4 Total: 22 hours
 
-June 1, 3:00 - 4:00pm, 
-Week 5 Total: 1 hours
+June 3, 9:00am - 4:00pm, Introduction to Linux shell - Compute Ontario Summer School (7hrs)
+
+Week 5 Total: 7 hours
