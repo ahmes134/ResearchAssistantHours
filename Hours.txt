@@ -38,5 +38,6 @@ Week 4 Total: 22 hours
 
 June 3, 9:00am - 12:00, Introduction to Linux shell - Compute Ontario Summer School (3hrs)
 June 3, 1:30 - 4:30, Introduction to Linux shell - Compute Ontario Summer School (3hrs)
+June 4, 1:30 - 4:30, Introduction to Version Control, Git (3hrs)
 
-Week 5 Total: 6 hours
+Week 5 Total: 9 hours
