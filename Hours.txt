@@ -40,6 +40,7 @@ June 3, 9:00am - 12:00pm, Introduction to Linux shell - Compute Ontario Summer S
 June 3, 1:30 - 4:30pm, Introduction to Linux shell - Compute Ontario Summer School (3hrs)
 June 4, 1:30 - 4:30pm, Introduction to Version Control, Git (3hrs)
 June 5, 10:00 - 12:00 pm, Meeting with prof + code comments (2hrs)
-June 6, 4:30 - 6:30 pm, Made changes to string function implementations(2 hrs)
+June 6, 4:30 - 6:30 pm, Made changes to string function implementations (2hrs)
+June 6, 7:30 - 8:30pm, Fixed Issues with string functions (1hr)
 
-Week 5 Total: 13 hours
+Week 5 Total: 14 hours
