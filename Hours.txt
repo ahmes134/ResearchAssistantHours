@@ -41,6 +41,7 @@ June 3, 1:30 - 4:30pm, Introduction to Linux shell - Compute Ontario Summer Scho
 June 4, 1:30 - 4:30pm, Introduction to Version Control, Git (3hrs)
 June 5, 10:00 - 12:00 pm, Meeting with prof + code comments (2hrs)
 June 6, 4:30 - 6:30 pm, Made changes to string function implementations (2hrs)
-June 6, 7:30 - 8:30pm, Fixed Issues with string functions (1hr)
+June 6, 7:30 - 9:30pm, Fixed Issues with string functions (2hr)
+June 6, 10:30 - 12:30pm, Tried fixing test function for zonal variable (2hrs)
 
-Week 5 Total: 14 hours
+Week 5 Total: 17 hours
