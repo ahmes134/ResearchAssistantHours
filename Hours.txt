@@ -36,12 +36,12 @@ May 29, 7:00 - 10:00PM, Fixed test cases and formatted code (3hrs)
 May 30, 10:00 - 1:00 pm, Group Meeting - Download FreeFem, Meeting with Supervisor, Notes (3hrs)
 Week 4 Total: 22 hours
 
-June 3, 9:00am - 12:00pm, Introduction to Linux shell - Compute Ontario Summer School (3hrs)
-June 3, 1:30 - 4:30pm, Introduction to Linux shell - Compute Ontario Summer School (3hrs)
+June 3, 9:00am - 4:00pm, Introduction to Linux shell - Compute Ontario Summer School (7hrs)
 June 4, 1:30 - 4:30pm, Introduction to Version Control, Git (3hrs)
-June 5, 10:00 - 12:00 pm, Meeting with prof + code comments (2hrs)
+June 5, 10:00 - 1:00 pm, Meeting with prof + code comments (3hrs)
 June 6, 4:30 - 6:30 pm, Made changes to string function implementations (2hrs)
 June 6, 7:30 - 9:30pm, Fixed Issues with string functions (2hr)
 June 6, 10:30 - 12:30pm, Tried fixing test function for zonal variable (2hrs)
+June 7, 10:00 - 11:00 am, Meeting with prof (1hr)
 
-Week 5 Total: 17 hours
+Week 5 Total: 20 hours
