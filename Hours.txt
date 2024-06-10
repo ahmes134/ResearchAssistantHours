@@ -45,5 +45,6 @@ June 6, 10:30 - 1:30am, Tried fixing test function for zonal variable (3hrs)
 June 7, 10:00 - 11:00 am, Meeting with prof (1hr)
 Week 5 Total: 21 hours
 
-June 10, 1:00 - 2:00pm, Fixing issue with double pointer
-Week 6 Total: 1 hour
+June 10, 1:00 - 2:00pm, Fixing issue with zonal variable names
+June 10, 4:00 - 5:00pm, Fixing Nodal variable names function
+Week 6 Total: 2 hour
