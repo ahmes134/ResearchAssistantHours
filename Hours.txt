@@ -49,5 +49,6 @@ June 10, 1:00 - 2:00pm, Fixing issue with zonal variable names (1hr)
 June 10, 4:00 - 6:00pm, Fixing Nodal variable names function + fixed formatting (2 hrs)
 June 11, 9:00 - 1:30pm, OpenMP Course (3 hours)
 June 11, 1:30 - 4:30pm, OpenMP Course (3 hours)
-June 12, 11:00 - 12:00am, Meeting with Prof
-Week 6 Total: 10 hours
+June 12, 11:00 - 12:00am, Meeting with Prof (1hr)
+June 14, 9:00 - 10:00am, Modified Code (1hr)
+Week 6 Total: 11 hours
