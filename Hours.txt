@@ -58,7 +58,8 @@ June 19, 9:00 - 12:00pm, Scientific Visualization - Compute Ontario Course (3hrs
 June 19, 1:00 - 4:00pm, Scientific Visualization - Compute Ontario Course (3hrs)
 June 19, 10:00 - 12:00 pm, Made slight changes to nodal/zonal getters and reviewed code (2hrs)
 June 20, 11:00 - 12:00 am, Meeting with prof (1hr)
-
-
 Week 7 Total: 17 hours
+
+Week 8 Total: 
+June 22, 
 
