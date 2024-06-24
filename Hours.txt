@@ -60,7 +60,7 @@ June 19, 10:00 - 12:00 pm, Made slight changes to nodal/zonal getters and review
 June 20, 11:00 - 12:00 am, Meeting with prof (1hr)
 Week 7 Total: 17 hours
 
-June 23, 6:30 - 8:30pm, Work on changes to code (2hrs)
-Week 8 Total: 2 hours
+June 23, 6:30 - 9:30pm, Work on changes to code (3hrs)
+Week 8 Total: 3 hours
  
 
