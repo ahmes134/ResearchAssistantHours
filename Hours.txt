@@ -62,9 +62,9 @@ Week 7 Total: 17 hours
 
 June 23, 6:30 - 10:30pm, Work on changes to code (4hrs)
 June 24, 2:30 - 3:30pm, Meeting with prof (1hr)
-June 26, 10:00 - 11:00am, Add the file calls to plexexodusii.c + make changes (1hr)
+June 26, 10:00 - 12:00pm, Add the file calls to plexexodusii.c + make changes (2hrs)
 June 26, 2:30 - 3:30pm, Call with prof (1hr)
 June 28, 8:30 - 11:30am, Make changes to code + github student pack application (3hr)
-Week 8 Total: 10 hours
+Week 8 Total: 11 hours
  
 
