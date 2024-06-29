@@ -66,5 +66,7 @@ June 26, 10:00 - 12:00pm, Add the file calls to plexexodusii.c + make changes (2
 June 26, 2:30 - 3:30pm, Call with prof (1hr)
 June 28, 8:30 - 11:30am, Make changes to code + github student pack application (3hr)
 Week 8 Total: 11 hours
- 
+
+June 29, 2:00 - 3:00pm, Fixed issues with code (1hr)
+Week 9 Total: 1 hour
 
