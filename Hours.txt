@@ -70,5 +70,7 @@ Week 8 Total: 11 hours
 June 29, 2:00 - 3:00pm, Fixed issues with code (1hr)
 June 30, 2:00 - 3:00pm, Fixed issues with code (1hr)
 July 1, 4:00 - 6:00pm, Fixed issues with code (2hr)
-Week 9 Total: 4 hours
+July 3, 2:30 - 3:30pm, Meeting with professor (1hr)
+July 3, 7:40 - 9:40pm, Try fixing names function (2hrs)
+Week 9 Total: 7 hours
 
