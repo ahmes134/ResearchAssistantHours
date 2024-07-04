@@ -72,6 +72,6 @@ June 30, 2:00 - 3:00pm, Fixed issues with code (1hr)
 July 1, 4:00 - 6:00pm, Fixed issues with code (2hr)
 July 3, 2:30 - 3:30pm, Meeting with professor (1hr)
 July 3, 7:30 - 12:30pm, Debugging + fixing names getter function (5hrs)
-July 4, 5:00 - 6:00pm, Fixing the way the getter is tested (1hr)
-Week 9 Total: 11 hours
+July 4, 5:00 - 7:00pm, Fixing the way the getter is tested (2hrs)
+Week 9 Total: 12 hours
 
