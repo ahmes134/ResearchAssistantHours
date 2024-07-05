@@ -76,5 +76,7 @@ July 4, 5:00 - 8:00pm, Fixing the way the getter is tested (8hrs)
 July 5, 10:30 - 11:30pm, Meeting with professor (1hr)
 Week 9 Total: 19 hours
 
+June 5, 2:00 - 3:00pm, Fixed Destroyer function and cleaned up code (1hr)
+Week 10 Total: 1 hours
 
 
