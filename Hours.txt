@@ -86,4 +86,8 @@ July 12, 3:00 - 4:00pm, Meeting with prof (1hr)
 July 19, 8:00 - 12:00pm, Reviewing C stuff (4 hrs)
 Week 11 Total: 5 hours
 
+July 26, 1:00 - 3:00pm, Review new task (2 hrs)
+Aug 2, 11:00 - 12:00pm, Start on fixing functions
+Week 12 Total: 3 hours
+
 
