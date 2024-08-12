@@ -90,4 +90,12 @@ July 26, 1:00 - 3:00pm, Review new task (2 hrs)
 Aug 2, 11:00 - 12:00pm, Start on fixing functions
 Week 12 Total: 3 hours
 
+Aug 4 - 11: Summer School Exam week
+Week 13 Total: 0 hours
+
+
+Aug 12, 11:00 - 12:00 pm, Updated Fork with Upstream Repository(1hr)
+
+Week 14 Total: 1 hour
+
 
