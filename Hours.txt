@@ -97,8 +97,9 @@ Week 13 Total: 5 hours
 
 Aug 12, 11:00 - 12:00 pm, Updated Fork with Upstream Repository (1hr)
 Aug 12, 1:00- 5:00pm, Tried fixing function (4 hrs)
-Aug 13, 12:30 - 1:30, Fixed Zonal Variable Names (1hr)
+Aug 13, 12:30 - 2:30, Fixed Zonal Variable Names (2hrs)
+Aug 14, 
 
-Week 14 Total: 6 hours
+Week 14 Total: 7 hours
 
 
