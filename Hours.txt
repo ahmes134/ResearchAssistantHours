@@ -90,15 +90,20 @@ July 26, 1:00 - 3:00pm, Review new task (2 hrs)
 Aug 2, 11:00 - 12:00pm, Start on fixing functions
 Week 12 Total: 3 hours
 
-Aug 4: Reviewing data structures and functions in C
+Aug 4: Reviewing data structures and functions in C (5 hrs)
 [Not alot done due to summer school exam week]
 Week 13 Total: 5 hours
 
 
 Aug 12, 11:00 - 12:00 pm, Updated Fork with Upstream Repository (1hr)
-Aug 12, 1:00- 5:00pm, Tried fixing function (4 hrs)
+Aug 12, 1:00-5:00pm, Tried fixing function (4 hrs)
 Aug 13, 12:30 - 2:30, Fixed Zonal Variable Names (2hrs)
-
 Week 14 Total: 7 hours
+
+Break 
+
+Sep 20, Meeting with professor + go over updates from summer (1hr)
+Sep 27, Meeting with professor, new task (1hr)
+Week 15 Total: 2 hours
 
 
